@@ -3,3 +3,4 @@ Orange
 Bananas
 Cherries
 Grapes
+Cereal
